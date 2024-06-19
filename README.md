@@ -1,2 +1,2 @@
-# No-Title-Text
+# No Title Text
 Removes the title text
